@@ -49,7 +49,7 @@ The Bar Plots which compare the share of programming languages used by the commm
 Bar Plots which compare the relative share of different Job positions in the IT community, show how the demand for Database Administrators has increased lately, and the same applies to System Administrators.
 
 Finally, in the 2nd part of the work I made some effort to predict in which Salary Bin a professional might expect to fall in, based on his questionary data of 2018. The model used was Random Forrest Classifier. Although the prediction results leave a lot of room for improvement (F-score ~ 0.51) the significance of features which (according to the model) were most important, shows interesting findings. 
-It appears that experience is the most important factor leading to high salary (Age and Years of Coding). Also, there are high differences in salary depending on the Operative System in which the develloper is working, with BSD/Unix developpers earning significanlty more than other.
+It appears that experience is the most important factor leading to high salary (Age and Years of Coding). Also, there are high differences in salary depending on the Operative System in which the develloper is working, with BSD/Unix developpers earning significanlty more than others.
 
 ## Licensing <a name="Licensing"></a>
 
