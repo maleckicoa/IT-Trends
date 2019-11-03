@@ -34,6 +34,8 @@ The two files are merged again the python workbook.
 Note that the questionary structure between 2013 and 2018 has changed a lot. 
 Cleaning the data and making the featues comparible was quite challenging, but even so some featues had to be dropped to avoid potential mistakes in the interpretation of the results.
 
+After cleaning the 2013 data contains around 9K observations, and 2018 data contains 90K and 11K (for the 1st and 2nd part of the work respectively) observations.
+
 Original data can be found here: https://insights.stackoverflow.com/survey
 
 
@@ -46,13 +48,11 @@ The Bar Plots which compare the share of programming languages used by the commm
 
 Bar Plots which compare the relative share of different Job positions in the IT community, show how the demand for Database Administrators has increased lately, and the same applies to System Administrators.
 
-Finally, in the 2nd part of the work I made some effort to predict in which Salary Bin a professional might expect to fall in, based on his questionary data of 2018. Although the prediction results leave a lot of room for improvement (F-score ~ 0.51) the significance of features which (according to the model) were most important, shows interesting findings. 
+Finally, in the 2nd part of the work I made some effort to predict in which Salary Bin a professional might expect to fall in, based on his questionary data of 2018. The model used was Random Forrest Classifier. Although the prediction results leave a lot of room for improvement (F-score ~ 0.51) the significance of features which (according to the model) were most important, shows interesting findings. 
 It appears that experience is the most important factor leading to high salary (Age and Years of Coding). Also, there are high differences in salary depending on the Operative System in which the develloper is working, with BSD/Unix developpers earning significanlty more than other.
 
+## Licensing <a name="Licensing"></a>
 
-
-
-
-
-
-
+All credits for the datasets go to StackOverflow. 
+The data is generally free to use, all licencing details can be found here:
+https://www.kaggle.com/stackoverflow/stack-overflow-2018-developer-survey
