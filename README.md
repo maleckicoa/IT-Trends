@@ -16,7 +16,7 @@ Libraries used are all standard in the Anaconda distribution (pandas, numpy, sci
 
 ## Motivation <a name="Motivation"></a>
 I was interested into analyzing the recent changes in the IT industry. For that purpose I was analyzing and comparing the questionary results conducted by Stackoverflow. 
-In its 1st part, the work compares the change in share of different job positions of the IT industry, between years 2013 and 2018.
+In the 1st part of the work, I compare the change in share of different job positions of the IT industry, between years 2013 and 2018.
 Also it was shown how the popularity of different programming languages has evolved between these years.
 
 In the 2nd part I focus only on the most recent 2018 data and try to find out which factors are best in explaining the salaries in the IT industry.
