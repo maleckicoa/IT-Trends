@@ -19,7 +19,7 @@ I was interested into analyzing the recent changes in the IT industry. For that 
 In the 1st part of the work, I compare the change in share of different job positions of the IT industry, between years 2013 and 2018.
 Also it was shown how the popularity of different programming languages has evolved between these years.
 
-In the 2nd part I focus only on the most recent 2018 data and try to find out which factors are best in explaining the salaries in the IT industry.
+In the 2nd part I focus only on the most recent 2018 data and try to find out which factors are most important in explaining the salaries in the IT industry.
 
 The data is cleaned but not all features are used. Therefore there is room for further analyzing and model improvement.
 
