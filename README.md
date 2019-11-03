@@ -34,7 +34,7 @@ The two files are merged again the python workbook.
 Note that the questionary structure between 2013 and 2018 has changed a lot. 
 Cleaning the data and making the featues comparible was quite challenging, but even so some featues had to be dropped to avoid potential mistakes in the interpretation of the results.
 
-After cleaning the 2013 data contains around 9K observations, and 2018 data contains 90K and 11K (for the 1st and 2nd part of the work respectively) observations.
+After cleaning the datasets, 2013 data contains around 9K observations, and 2018 data contains 90K and 11K observations (for the 1st and 2nd part of the workbook respectively).
 
 Original data can be found here: https://insights.stackoverflow.com/survey
 
