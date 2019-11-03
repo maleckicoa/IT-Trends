@@ -40,7 +40,19 @@ Original data can be found here: https://insights.stackoverflow.com/survey
 ## Results <a name="Results"></a>
 
 The IT industry had gone through some interesting changes in the past 5-6 years.
-Plots which show the changes are not fully comparible, but some conclusions can still be made
-The Bar Plots which compare the share of programming languages used by the commmunity, show how the popularity of Python continues to increae, now beating C# and PHP in a relative number of users.
+
+Plots which show the changes are not fully comparible, but conclusions can still be made.
+The Bar Plots which compare the share of programming languages used by the commmunity, show how the popularity of Python continues to increase, now beating C# and PHP in the relative number of users. At the same time, objective-C looses its share to R and Ruby which are now ranked before it.
+
+Bar Plots which compare the relative share of different Job positions in the IT community, show how the demand for Database Administrators has increased lately, and the same applies to System Administrators.
+
+Finally, in the 2nd part of the work I made some effort to predict in which Salary Bin a professional might expect to fall in, based on his questionary data of 2018. Although the prediction results leave a lot of room for improvement (F-score ~ 0.51) the significance of features which (according to the model) were most important, shows interesting findings. 
+It appears that experience is the most important factor leading to high salary (Age and Years of Coding). Also, there are high differences in salary depending on the Operative System in which the develloper is working, with BSD/Unix developpers earning significanlty more than other.
+
+
+
+
+
+
 
 
