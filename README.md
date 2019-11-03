@@ -31,12 +31,16 @@ The files SO_2018-1.csv and SO_2018-2.csv are data from the Stackoverflow questi
 I had to split the 2018 questionary data into two files, to be able to upload them to github (file size limitations). 
 The two files are merged again the python workbook. 
 
-Note that the questionary structure between 2013 and 2018 have changed a lot. 
-Cleaning the data and making the featues comparible was quite challenging, but even so some featues had to be dropped to avoid poential mistakes in the interpretation of the results.
+Note that the questionary structure between 2013 and 2018 has changed a lot. 
+Cleaning the data and making the featues comparible was quite challenging, but even so some featues had to be dropped to avoid potential mistakes in the interpretation of the results.
 
 Original data can be found here: https://insights.stackoverflow.com/survey
 
 
 ## Results <a name="Results"></a>
+
+The IT industry had gone through some interesting changes in the past 5-6 years.
+Plots which show the changes are not fully comparible, but some conclusions can still be made
+The Bar Plots which compare the share of programming languages used by the commmunity, show how the popularity of Python continues to increae, now beating C# and PHP in a relative number of users.
 
 
